@@ -13,6 +13,7 @@ public class TheLoai {
     private String maTL;
     private String tenTL;
     private boolean trangThai;
+    id cut;
 
     public TheLoai() {
     }
